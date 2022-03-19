@@ -15,3 +15,5 @@ unstaged
 copyright
 
 test
+
+how to contribute
